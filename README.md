@@ -10,11 +10,11 @@
 
 ### My Tech Stack 🛠️
 <p align="left">
-  <h3>C</h3>
-  <h3>HTML</h3>
-  <h3>CSS</h3>
-  <h3>CJavascript</h3>
-  <h3>Python</h3> 
+  <h6>C</h6>
+  <h6>HTML</h6>
+  <h6>CSS</h6>
+  <h6>CJavascript</h6>
+  <h6>Python</h6> 
 </p>
 
 ### What I am Working On 🚀
