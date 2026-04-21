@@ -19,7 +19,7 @@
 
 ### What I am Working On 🚀
 - 📊 **A Derivatives (F&O) Trade Simulator with a built-in payoff analyzer, written in C. Currently working to turn this into an Active Functional SAAS.**
-- 📚 **A functional Tuition Manager application to streamline daily tasks.**
+- 📚 **A functional Tuition Manager application to streamline daily tasks. (Made with help and support from AI)**
 - 🎨 **Static UI/UX landing page templates focusing on clean front-end design.**
 - 🧠 **Planning and analysing current scenario for my next AI automation project.**
 
