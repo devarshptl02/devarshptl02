@@ -13,7 +13,7 @@
   <h6>C</h6>
   <h6>HTML</h6>
   <h6>CSS</h6>
-  <h6>CJavascript</h6>
+  <h6>Javascript</h6>
   <h6>Python</h6> 
 </p>
 
