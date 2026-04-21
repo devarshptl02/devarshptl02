@@ -1,6 +1,6 @@
 # Hi there, I am Devarsh Patel! 👋
 
-**I am a BS-CSE student at Nirma University, passionate about problem-solving, open-source development, and building practical software.** I am currently gearing up to contribute to the GirlScript Summer of Code! 🎯
+**I am a BS-CSE student at Nirma University, passionate about problem-solving, open-source development, and building practical software.** 🎯
 
 ### About Me 💡
 - 🎓 **I am actively building my foundational skills in C, Python, and Data Structures & Algorithms.**
@@ -18,10 +18,10 @@
 </p>
 
 ### What I am Working On 🚀
-- 📊 **A Derivatives (F&O) Trade Simulator with a built-in payoff analyzer, written in C.**
+- 📊 **A Derivatives (F&O) Trade Simulator with a built-in payoff analyzer, written in C. Currently working to turn this into an Active Functional SAAS.**
 - 📚 **A functional Tuition Manager application to streamline daily tasks.**
 - 🎨 **Static UI/UX landing page templates focusing on clean front-end design.**
-- 🧠 **Planning the architecture for my next AI automation project.**
+- 🧠 **Planning and analysing current scenario for my next AI automation project.**
 
 ### Let's Connect 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/devarshpatel02)
